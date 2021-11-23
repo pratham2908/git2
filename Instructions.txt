@@ -1,0 +1,10 @@
+1. git init- Used to create any repository a git repository
+2. git clone "link from github"- clones github repository to your local machine.
+3. git status- shows all the modified files.(and their commit status)
+               shows all the files that are not yet tracked by git.
+4.git add (fileName)- adds a particular file to get to get tracked.
+           git add .    - adds all the files(modified and untracked) to the git.
+5. git commit- save your changes to the git in your local machine.
+   format: git commit -m "Title" -m "Description".
+6. git push - save your changes to the server e.g. Github.
+   for Git push you need to connect your local machine to your Github Account.
